@@ -1,0 +1,13 @@
+{
+  "name": "Ridz_MXD",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.3"
+  }
+}
