@@ -41,4 +41,7 @@ Scan the QR code with your WhatsApp to connect.
 - Set the `OPENAI_API_KEY` in the environment variables.
 
 ---
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=ridz-mxd&repository=Dev-Ridz%2FRIDZ_MXD&branch=main&instance_type=free&instances_min=0&autoscaling_sleep_idle_delay=300&env%5BOPENAI_API_KEY%5D=)
+
 ❤️ Made for those who love heartfelt conversations.
